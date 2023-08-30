@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/spark-site/static/css/main.9097a761.css",
+    "main.js": "/spark-site/static/js/main.01927d6c.js",
+    "static/js/787.016ce517.chunk.js": "/spark-site/static/js/787.016ce517.chunk.js",
+    "static/media/mushroom_hero.png": "/spark-site/static/media/mushroom_hero.4bc23bfc6313ab6e40f0.png",
+    "index.html": "/spark-site/index.html",
+    "main.9097a761.css.map": "/spark-site/static/css/main.9097a761.css.map",
+    "main.01927d6c.js.map": "/spark-site/static/js/main.01927d6c.js.map",
+    "787.016ce517.chunk.js.map": "/spark-site/static/js/787.016ce517.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9097a761.css",
+    "static/js/main.01927d6c.js"
+  ]
+}
