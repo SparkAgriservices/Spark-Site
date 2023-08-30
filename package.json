@@ -1,6 +1,7 @@
 {
   "name": "spark-site",
   "version": "0.1.0",
+  "homepage": "https://sparkagriservices.github.io/spark-site",
   "private": true,
   "dependencies": {
     "@clerk/clerk-react": "^4.24.0",
